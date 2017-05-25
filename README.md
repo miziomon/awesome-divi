@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome [DIVI](https://www.elegantthemes.com/gallery/divi/) resources, plugins, layout and shiny things. 
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-wordpress](https://github.com/miziomon/awesome-wordpress)]
+Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-wordpress](https://github.com/miziomon/awesome-wordpress)
 
 - [Awesome DIVI](#awesome-divi)
 	- [Layout](#layout)
