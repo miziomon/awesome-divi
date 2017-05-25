@@ -1,0 +1,132 @@
+.et-pb-column.et-pb-column-1_5 {
+    width: 18.4%;
+}
+
+.et-pb-column.et-pb-column-1_6 {
+    width: 15%;
+}
+
+.et-pb-column.et-pb-column-1_7 {
+    width: 12.38%;
+}
+
+.et-pb-column.et-pb-column-1_8 {
+    width: 10.6%;
+}
+
+.et-pb-column.et-pb-column-1_8 .et_pb_module_block {
+    padding: 2px 1px;
+}
+
+.et-pb-column.et-pb-column-5_6 {
+    width: 83%;
+}
+
+.et-pb-column.et-pb-column-2_5 {
+    width: 38.7%;
+}
+
+.et-pb-column.et-pb-column-3_5 {
+    width: 59.1%;
+}
+
+.et-pb-column.et-pb-column-4_5 {
+    width: 79.6%;
+}
+
+.et-pb-column.et-pb-column-1_6 .et-pb-module-title, .et-pb-column.et-pb-column-1_5 .et-pb-module-title {
+    min-width: inherit;
+    max-width: 35px;
+}
+
+.et_pb_column_layout_1_6 {
+    width: 13%;
+}
+
+.et_pb_column_layout_1_6:before {
+    content: '1/6';
+}
+
+.et_pb_column_layout_1_7 {
+    width: 10.8%;
+}
+
+.et_pb_column_layout_1_7:before {
+    content: '1/7';
+}
+
+.et_pb_column_layout_1_8 {
+    width: 9%;
+}
+
+.et_pb_column_layout_1_8:before {
+    content: '1/8';
+    font-size: 12px;
+}
+
+.et_pb_column_layout_1_5 {
+    width: 16.7%;
+}
+
+.et_pb_column_layout_1_5:before {
+    content: '1/5';
+}
+
+.et_pb_column_layout_2_5 {
+    width: 35.4%;
+}
+
+.et_pb_column_layout_2_5:before {
+    content: '2/5';
+}
+
+.et_pb_column_layout_3_5 {
+    width: 60%;
+}
+
+.et_pb_column_layout_3_5:before {
+    content: '3/5';
+}
+
+.et_pb_column_layout_4_5 {
+    width: 79.2%;
+}
+
+.et_pb_column_layout_4_5:before {
+    content: '4/5';
+}
+
+.et_pb_column_layout_5_6 {
+    width: 83.0%;
+}
+
+.et_pb_column_layout_5_6:before {
+    content: '4/5';
+}
+
+.et_pb_5_variations .et_pb_variation {
+    height: 10px;
+    margin-bottom: 6px;
+}
+
+.et_pb_variation_1_4 {
+    width: 18.95%;
+}
+
+.et_pb_variation_1_5 {
+    width: 13.6%;
+}
+
+.et_pb_variation_1_4:last-child, .et_pb_variation_1_5:last-child {
+    margin-right: 0;
+}
+
+.et_pb_specialty_column:before, .et_pb_variations:before {
+    content: '';
+}
+
+.wp-admin #et_pb_layout .inside #et_pb_main_container .et_pb_section {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
