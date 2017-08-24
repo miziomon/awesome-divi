@@ -30,6 +30,7 @@ A curated list of amazingly awesome [DIVI](https://www.elegantthemes.com/gallery
 
 * [Mega Menu](https://www.elegantthemes.com/documentation/divi/mega-menus/) - Mega menus allow users to see more links all at once without the hassle of scrolling, hovering, and remembering the contents of your menu. A good way to think about Mega Menus is that they are drop down menus within drop down menus. So instead of your normal dropdown menu which shows a submenu when hovering over your main parent links in your navigation bar, a megamenu allows you to have additional parent links and submenus within the dropdown menu.
 * [Divi Tutorials](https://quiroz.co/) - The ultimate library of Divi Tutorials, Layouts, Tips and Tricks for the Web Designer, CSS Enthusiast, and the Digital Entrepreneur in all of us.
+* [Divi Soup](https://divisoup.com/) - Divi Soup is a tutorial website for enthusiasts of the Divi Theme by Elegant Themes.
 
 ## Contributing
 
