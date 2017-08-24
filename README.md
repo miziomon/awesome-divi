@@ -6,7 +6,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-php](ht
 
 - [Awesome DIVI](#awesome-divi)
 	- [Layout](#layout)
-	- [Peformance](#performance)
+	- [Performance](#performance)
 	- [Resource](#resource)
   - [Contributing](#contributing)
 
