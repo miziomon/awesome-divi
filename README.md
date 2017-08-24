@@ -1,8 +1,8 @@
-# Awesome DIVI
+# Awesome Divi
 
-A curated list of amazingly awesome [DIVI](https://www.elegantthemes.com/gallery/divi/) resources, plugins, layout and shiny things. 
+A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery/divi/) resources, plugins, layout and shiny things. 
 
-- [Awesome DIVI](#awesome-divi)
+- [Awesome Divi](#awesome-divi)
 	- [Layout](#layout)
 	- [Performance](#performance)
 	- [Resource](#resource)
