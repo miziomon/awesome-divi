@@ -2,8 +2,6 @@
 
 A curated list of amazingly awesome [DIVI](https://www.elegantthemes.com/gallery/divi/) resources, plugins, layout and shiny things. 
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-wordpress](https://github.com/miziomon/awesome-wordpress)
-
 - [Awesome DIVI](#awesome-divi)
 	- [Layout](#layout)
 	- [Performance](#performance)
@@ -37,5 +35,5 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-php](ht
 
 We welcome any contributions to the this awesome list! Please send us a pull request.
 
-* For contribution, [fork the project](https://github.com/miziomon/awesome-divi/fork)
-* To report a broken link or want to remove one, [use issues](https://github.com/miziomon/awesome-divi/issues)
+* For contribution, [fork the project](https://github.com/lukecav/awesome-divi/fork)
+* To report a broken link or want to remove one, [use issues](https://github.com/lukecav/awesome-divi/issues)
