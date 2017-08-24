@@ -22,9 +22,15 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-php](ht
 * [Gallery Layout pack](https://www.elegantthemes.com/blog/divi-resources/free-divi-photo-gallery-layout-pack-5-stunning-gallery-page-layouts-in-one-convenient-download) - Divi provides users with a myriad of ways to display their images. Whether that’s as full screen backgrounds, fullwidth sections, within a slider, a gallery, or as individual images on a page/post. But getting the right combination of elements–the right balance that results in a compelling page design–can be difficult for anyone. That’s why in today’s post we’re giving away a new Divi layout pack specifically created to help you create stunning full page galleries with your Divi website.
 * [Contact pages layout pack](https://www.elegantthemes.com/blog/divi-resources/download-the-free-divi-contact-pages-layout-pack) - Contact pages are easy to get lazy on. Everyone has them and yet not everyone gives them the design love and attention they deserve. This layout pack will help you jumpstart an above average contact page on any Divi website.
 
+## Peformance
+
+* [How to Optimize the Divi Gallery Module](http://www.ibenic.com/optimize-divi-gallery-module/) - Divi theme is a great theme for people who aren’t tech-savvy. The Divi Gallery Module is a module where you can create galleries with a slideshow effect. If you have many images in one or more galleries on a page, that page will have a lot of images that load without being seen
+
+
 ## Resource
 
 * [Mega Menu](https://www.elegantthemes.com/documentation/divi/mega-menus/) - Mega menus allow users to see more links all at once without the hassle of scrolling, hovering, and remembering the contents of your menu. A good way to think about Mega Menus is that they are drop down menus within drop down menus. So instead of your normal dropdown menu which shows a submenu when hovering over your main parent links in your navigation bar, a megamenu allows you to have additional parent links and submenus within the dropdown menu.
+* [Divi Tutorials](https://quiroz.co/) - The ultimate library of Divi Tutorials, Layouts, Tips and Tricks for the Web Designer, CSS Enthusiast, and the Digital Entrepreneur in all of us.
 
 ## Contributing
 
