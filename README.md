@@ -22,7 +22,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Gallery Layout pack](https://www.elegantthemes.com/blog/divi-resources/free-divi-photo-gallery-layout-pack-5-stunning-gallery-page-layouts-in-one-convenient-download) - Divi provides users with a myriad of ways to display their images. Whether that’s as full screen backgrounds, fullwidth sections, within a slider, a gallery, or as individual images on a page/post. But getting the right combination of elements–the right balance that results in a compelling page design–can be difficult for anyone. That’s why in today’s post we’re giving away a new Divi layout pack specifically created to help you create stunning full page galleries with your Divi website.
 * [Contact pages layout pack](https://www.elegantthemes.com/blog/divi-resources/download-the-free-divi-contact-pages-layout-pack) - Contact pages are easy to get lazy on. Everyone has them and yet not everyone gives them the design love and attention they deserve. This layout pack will help you jumpstart an above average contact page on any Divi website.
 
-## Layout
+## Modules
 
 * [Divi Title Module](https://wordpress.org/plugins/mc-divi-title-module/) - This plugin adds a new module to the Divi builder, it allows to easily insert titles without going through the text module.
 
