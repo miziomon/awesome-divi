@@ -27,6 +27,8 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Divi Title Module](https://wordpress.org/plugins/mc-divi-title-module/) - This plugin adds a new module to the Divi builder, it allows to easily insert titles without going through the text module.
 * [Simple Divi Shortcoder](https://wordpress.org/plugins/simple-divi-shortcoder/) - The purpose of this plugin is to allow you to embed Divi sections or modules within other Divi modules or anything else that supports shortcodes.
 * [PayPal for Divi](https://github.com/angelleye/divi-paypal) - Adds a PayPal Buy Now / Donate button module to the Divi theme by Elegant Themes.  Quickly and easily create PayPal Buy Now and Donate buttons.
+* [PayPal for Divi](https://wordpress.org/plugins/angelleye-paypal-for-divi/) - Adds a PayPal Buy Now / Donate button module to the Divi theme by Elegant Themes.  Quickly and easily create PayPal Buy Now and Donate buttons.
+* [ACME Divi Modules](https://wordpress.org/plugins/acme-divi-modules/) - This plugin add some extra modules to Divi Builder.
 
 ## Performance
 
