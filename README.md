@@ -1,12 +1,12 @@
-# Awesome DIVI
+# Awesome Divi
 
-A curated list of amazingly awesome [DIVI](https://www.elegantthemes.com/gallery/divi/) resources, plugins, layout and shiny things. 
+A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery/divi/) resources, plugins, layout and shiny things. 
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-wordpress](https://github.com/miziomon/awesome-wordpress)
-
-- [Awesome DIVI](#awesome-divi)
+- [Awesome Divi](#awesome-divi)
 	- [Layout](#layout)
-	- [Resourse](#resource)
+	- [Modules](#modules)
+	- [Performance](#performance)
+	- [Resource](#resource)
   - [Contributing](#contributing)
 
 
@@ -22,13 +22,29 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-php](ht
 * [Gallery Layout pack](https://www.elegantthemes.com/blog/divi-resources/free-divi-photo-gallery-layout-pack-5-stunning-gallery-page-layouts-in-one-convenient-download) - Divi provides users with a myriad of ways to display their images. Whether that’s as full screen backgrounds, fullwidth sections, within a slider, a gallery, or as individual images on a page/post. But getting the right combination of elements–the right balance that results in a compelling page design–can be difficult for anyone. That’s why in today’s post we’re giving away a new Divi layout pack specifically created to help you create stunning full page galleries with your Divi website.
 * [Contact pages layout pack](https://www.elegantthemes.com/blog/divi-resources/download-the-free-divi-contact-pages-layout-pack) - Contact pages are easy to get lazy on. Everyone has them and yet not everyone gives them the design love and attention they deserve. This layout pack will help you jumpstart an above average contact page on any Divi website.
 
+## Modules
+
+* [Divi Title Module](https://wordpress.org/plugins/mc-divi-title-module/) - This plugin adds a new module to the Divi builder, it allows to easily insert titles without going through the text module.
+* [Simple Divi Shortcoder](https://wordpress.org/plugins/simple-divi-shortcoder/) - The purpose of this plugin is to allow you to embed Divi sections or modules within other Divi modules or anything else that supports shortcodes.
+* [PayPal for Divi](https://github.com/angelleye/divi-paypal) - Adds a PayPal Buy Now / Donate button module to the Divi theme by Elegant Themes.  Quickly and easily create PayPal Buy Now and Donate buttons.
+* [PayPal for Divi](https://wordpress.org/plugins/angelleye-paypal-for-divi/) - Adds a PayPal Buy Now / Donate button module to the Divi theme by Elegant Themes.  Quickly and easily create PayPal Buy Now and Donate buttons.
+* [ACME Divi Modules](https://wordpress.org/plugins/acme-divi-modules/) - This plugin add some extra modules to Divi Builder.
+
+## Performance
+
+* [How to Optimize the Divi Gallery Module](http://www.ibenic.com/optimize-divi-gallery-module/) - Divi theme is a great theme for people who aren’t tech-savvy. The Divi Gallery Module is a module where you can create galleries with a slideshow effect. If you have many images in one or more galleries on a page, that page will have a lot of images that load without being seen
+
+
 ## Resource
 
 * [Mega Menu](https://www.elegantthemes.com/documentation/divi/mega-menus/) - Mega menus allow users to see more links all at once without the hassle of scrolling, hovering, and remembering the contents of your menu. A good way to think about Mega Menus is that they are drop down menus within drop down menus. So instead of your normal dropdown menu which shows a submenu when hovering over your main parent links in your navigation bar, a megamenu allows you to have additional parent links and submenus within the dropdown menu.
+* [Divi Tutorials](https://quiroz.co/) - The ultimate library of Divi Tutorials, Layouts, Tips and Tricks for the Web Designer, CSS Enthusiast, and the Digital Entrepreneur in all of us.
+* [Divi Soup](https://divisoup.com/) - Divi Soup is a tutorial website for enthusiasts of the Divi Theme by Elegant Themes.
+* [Divi Space](https://divi.space/divi-tutorials/) - Boost your web development speed & creativity with Child Themes, Plugins & Resources for the Divi Theme.
 
 ## Contributing
 
 We welcome any contributions to the this awesome list! Please send us a pull request.
 
-* For contribution, [fork the project](https://github.com/miziomon/awesome-divi/fork)
-* To report a broken link or want to remove one, [use issues](https://github.com/miziomon/awesome-divi/issues)
+* For contribution, [fork the project](https://github.com/lukecav/awesome-divi/fork)
+* To report a broken link or want to remove one, [use issues](https://github.com/lukecav/awesome-divi/issues)
